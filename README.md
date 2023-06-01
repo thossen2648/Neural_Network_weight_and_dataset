@@ -1,4 +1,4 @@
-# Neural_Network_weight_and_dataset
+# Neural_Network_Weights_and_Dataset
 The trained weighting parameters and dataset 
 
 The trained weighting parameters are available in Neural_network_weights file 
