@@ -1,0 +1,5 @@
+# Neural_Network_weight_and_dataset
+The trained weighting parameters and dataset 
+
+The trained weighting parameters are available in Neural_network_weights file 
+The dataset is available in input.mat and output.mat files 
